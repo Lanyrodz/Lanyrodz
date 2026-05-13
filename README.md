@@ -2,7 +2,7 @@
 
 I'm currently working on a program that let's the user register and log-in to a website. My next project is a guess-who type game where the player has to guess a person based on facts/personality-traits. 
 
-I'm currently getting my Python, Java, and SQL certifications on freecodecamp.com
+I'm currently getting my Python, Java, and SQL certifications on https://www.freecodecamp.org/lany-rodz
 
 You can reach me via email at:
 melanyrodz15@gmail.com
